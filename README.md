@@ -2,9 +2,9 @@
 
 FakeSniff is a Streamlit-based web application for DeepFake detection, offering an easy-to-use interface for analyzing images and videos. Users can add their own deepfake detection models and compare them with existing models out of the box.
 
-## WebApp
+<!-- ## WebApp -->
 
-[Live here]()
+<!-- [Live here]() -->
 
 ## Features
 
